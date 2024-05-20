@@ -3,12 +3,13 @@
 <div align="left">
  <div>
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="33" />
-   <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" alt="C" height="33" />
+        <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" alt="C++" height="33" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="33" />
         <img src="https://img.shields.io/badge/Assembly-007ACC?style=for-the-badge&logo=MIPS&logoColor=white" alt="Assembly" height="33"/>
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="33" />
     </div>
     <div>
-     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="ReactJS" height="33"/>
+        <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="ReactJS" height="33"/>
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" height="33"/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="33" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="33" />
